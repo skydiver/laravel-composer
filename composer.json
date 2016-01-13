@@ -1,0 +1,21 @@
+{
+    "name": "skydiver/laravel-composer",
+    "description": "Improve running composer on laravel projects",
+    "version": "1.0.0",
+    "keywords": ["php", "composer", "laravel"],
+    "homepage": "https://github.com/skydiver/laravel-composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martín M.",
+            "homepage": "http://www.flydev.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Skydiver\\LaravelComposer\\": "src/"
+        }
+    },
+    "tags": "1.0.0"
+}
