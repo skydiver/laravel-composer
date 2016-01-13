@@ -1,11 +1,11 @@
 <?php
 
-    namespace App\Console\Commands;
+    namespace Skydiver\LaravelComposer\Commands;
 
     use Illuminate\Console\Command;
     use Illuminate\Foundation\Inspiring;
 
-    class Inspire extends Command {
+    class LaravelComposer extends Command {
 
         protected $name        = 'LaravelComposer:update';
         protected $description = 'Run composer update and save packages diff';
