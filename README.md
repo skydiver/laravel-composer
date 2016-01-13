@@ -1,7 +1,7 @@
 #laravel-composer
-====
-
 Improve running composer on Laravel 5 projects
+
+====
 
 ### Installation
 
