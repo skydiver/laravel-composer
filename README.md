@@ -14,3 +14,11 @@ Improve running composer on Laravel 5 projects
 ```php
     Skydiver\LaravelComposer\LaravelComposerServiceProvider::class,
 ```
+
+
+### Current Commands
+
+```
+php artisan composer:update
+```
+Save current composer packages, execute `composer update` and save post update packages list. 
